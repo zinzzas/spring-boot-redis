@@ -1,0 +1,8 @@
+${AnsiColor.BRIGHT_MAGENTA}  _____ ____  ____   ____  ____    ____      ___     ____  ______   ____      ____     ___  ___    ____  _____
+${AnsiColor.BRIGHT_MAGENTA} / ___/|    \|    \ l    j|    \  /    T    |   \   /    T|      T /    T    |    \   /  _]|   \  l    j/ ___/
+${AnsiColor.BRIGHT_MAGENTA}(   \_ |  o  )  D  ) |  T |  _  YY   __j    |    \ Y  o  ||      |Y  o  |    |  D  ) /  [_ |    \  |  T(   \_
+${AnsiColor.BRIGHT_MAGENTA} \__  T|   _/|    /  |  | |  |  ||  T  |    |  D  Y|     |l_j  l_j|     |    |    / Y    _]|  D  Y |  | \__  T
+${AnsiColor.BRIGHT_MAGENTA} /  \ ||  |  |    \  |  | |  |  ||  l_ |    |     ||  _  |  |  |  |  _  |    |    \ |   [_ |     | |  | /  \ |
+${AnsiColor.BRIGHT_MAGENTA} \    ||  |  |  .  Y j  l |  |  ||     |    |     ||  |  |  |  |  |  |  |    |  .  Y|     T|     | j  l \    |
+${AnsiColor.BRIGHT_MAGENTA}  \___jl__j  l__j\_j|____jl__j__jl___,_j    l_____jl__j__j  l__j  l__j__j    l__j\_jl_____jl_____j|____j \___j
+${AnsiColor.BRIGHT_YELLOW}Powered by Spring Boot ${spring-boot.version}${Ansi.DEFAULT}
